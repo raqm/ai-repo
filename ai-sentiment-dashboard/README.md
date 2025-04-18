@@ -17,7 +17,7 @@ Welcome to the **AI Sentiment Dashboard** built with **Streamlit** and powered b
 ### Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-repo.git
+   git clone https://github.com/raqm/ai-repo.git
    cd ai-repo/ai-sentiment-dashboard
  
 2.	Install dependencies:
