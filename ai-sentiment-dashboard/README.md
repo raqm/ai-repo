@@ -1,6 +1,7 @@
 # AI Sentiment Dashboard
 
 Welcome to the **AI Sentiment Dashboard** built with **Streamlit** and powered by the **Hugging Face Transformers** library! This simple web app allows you to input text and analyze the sentiment (positive or negative) of the content in real-time using a pre-trained sentiment analysis model.
+This code can be run with codespaces.
 
 ## Features
 - **Text Input**: Enter any text you'd like to analyze.
